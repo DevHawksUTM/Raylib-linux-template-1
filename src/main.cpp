@@ -21,9 +21,12 @@ int main(){
             DrawRectangle(cube_x, 175, 50, 50, GREEN);
         EndDrawing(); // End drawing sequence
 
+        // If the square has reached either side, change direction of increment
         if(cube_x == 0 || cube_x == 550){
             increment *= -1;
         }
+
+        // Add increment
         cube_x += increment;
     }
 

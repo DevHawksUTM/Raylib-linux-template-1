@@ -26,7 +26,7 @@ To install on linux: `sudo apt-get install mesa-utils`
 ## Compiling
 
 To compile the program: `make`
-...Then, to run the program: `./program`
+Then, to run the program: `./program`
 
 If you wish to compile & then immediately run your program: `make run`
 

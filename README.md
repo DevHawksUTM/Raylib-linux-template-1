@@ -21,6 +21,7 @@ Source Repository: https://github.com/raysan5/raylib
 ## Install OpenGL
 
 Raylib requires the opengl library to link properly
+
 To install on linux: `sudo apt-get install mesa-utils`
 
 ## Compiling
